@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         festify.us vote script
 // @namespace    https://einbaum.org/
-// @version      1.0.1
-// @description  Adds fake votes to festify.us songs.
+// @version      1.0.2
+// @description  Unlimited votes on festify.us songs! More information in the GitHub repository that is linked below.
 // @author       https://github.com/EinBaum
 // @include      http://festify.us/*
 // @include      https://festify.us/*
