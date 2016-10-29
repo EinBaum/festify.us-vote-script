@@ -1,11 +1,15 @@
 // ==UserScript==
 // @name         festify.us vote script
 // @namespace    https://einbaum.org/
-// @version      1.0
-// @description  Adds fake votes to festify.us songs
+// @version      1.0.1
+// @description  Adds fake votes to festify.us songs.
 // @author       https://github.com/EinBaum
 // @include      http://festify.us/*
 // @include      https://festify.us/*
+
+// @supportURL   https://github.com/EinBaum/festify.us-vote-script/issues
+// @homepageURL  https://github.com/EinBaum/festify.us-vote-script
+
 // ==/UserScript==
 
 function FVS_AddVoteSingle(songName, songID) {
